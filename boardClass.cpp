@@ -1,3 +1,4 @@
+//Lorenzo Toscano || Tabamon
 #include "headers/boardClass.hpp"
 #include "headers/squareClass.hpp"
 #include <iostream>
